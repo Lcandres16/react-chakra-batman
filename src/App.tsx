@@ -1,5 +1,5 @@
 import React from 'react';
-import App from './components/Batman'; 
+import App from './components/BatmanCard'; 
 
 const MainApp: React.FC = () => {
   return (
